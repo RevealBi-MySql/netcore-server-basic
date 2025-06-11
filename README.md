@@ -4,8 +4,8 @@ You'll find everything you need to learn and implement a Reveal SDK Server appli
 
 Server Examples:
 
-- Basic .NET Core / SQL Server with limited comments - [netcore-server-basic](https://github.com/RevealBi-MySql/netcore-server-basic)
-- Advanced / heavily commented .NET Core / SQL Server implementation - [netcore-server](https://github.com/RevealBi-MySql/netcore-server-advanced)
+- Basic .NET Core / MySql with limited comments - [netcore-server-basic](https://github.com/RevealBi-MySql/netcore-server-basic)
+- Advanced / heavily commented .NET Core / MySql implementation - [netcore-server](https://github.com/RevealBi-MySql/netcore-server-advanced)
 
 
 Client Examples:
